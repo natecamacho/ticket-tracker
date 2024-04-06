@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component renders initial Board component unchanged 1`] = `
+<div>
+  <div
+    class="flex flex-col h-full"
+  >
+    Team Board
+    <div
+      class="flex flex-grow h-full"
+    >
+      <div
+        class="flex w-80 h-12 bg-slate-200 mr-4 mt-4 items-center justify-center rounded-md"
+      >
+        Up Next
+      </div>
+      <div
+        class="flex w-80 h-12 bg-slate-200 mr-4 mt-4 items-center justify-center rounded-md"
+      >
+        In Progress
+      </div>
+      <div
+        class="flex w-80 h-12 bg-slate-200 mr-4 mt-4 items-center justify-center rounded-md"
+      >
+        Done
+      </div>
+    </div>
+    <div
+      class="flex flex-none h-full"
+    >
+      <div
+        class="w-80 h-4/5 bg-slate-200 mr-4 mt-12 pt-2 text-center rounded-md"
+      />
+      <div
+        class="w-80 h-4/5 bg-slate-200 mr-4 mt-12 pt-2 text-center rounded-md"
+      />
+      <div
+        class="w-80 h-4/5 bg-slate-200 mr-4 mt-12 pt-2 text-center rounded-md"
+      />
+    </div>
+  </div>
+</div>
+`;

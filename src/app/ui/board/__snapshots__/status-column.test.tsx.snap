@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatusColumn component renders initial StatusColumn component unchanged 1`] = `
+<div>
+  <div
+    class="flex w-80 h-12 bg-slate-200 mr-4 mt-4 items-center justify-center rounded-md"
+  >
+    Test Status
+  </div>
+</div>
+`;

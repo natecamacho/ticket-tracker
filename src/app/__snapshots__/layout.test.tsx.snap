@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Root Layout component should render Root Layout unchanged 1`] = `
+<div>
+  <html
+    class="h-full"
+    lang="en"
+  >
+    <body
+      class="className h-full"
+    >
+      <div>
+        Test
+      </div>
+    </body>
+  </html>
+</div>
+`;

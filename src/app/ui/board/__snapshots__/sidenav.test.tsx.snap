@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideNav component should render sidenav unchanged 1`] = `
+<div>
+  <div
+    class="flex h-full flex-col px-2 py-4"
+  >
+    <a
+      class="mb-2 flex h-40 items-end justify-start rounded-md bg-blue-600 p-4"
+      href="/"
+    >
+      Nate's Ticket Tracker
+    </a>
+    <div
+      class="flex grow flex-col justify-between space-x-0 space-y-2"
+    >
+      <a
+        class="flex h-[48px] flex-none justify-center p-2 px-3 items-center gap-2 rounded-md bg-gray-50 text-sm font-medium hover:bg-sky-100 hover:text-blue-600"
+        href="/board"
+      >
+        <p
+          class="block"
+        >
+          Board
+        </p>
+      </a>
+      <a
+        class="flex h-[48px] flex-none justify-center p-2 px-3 items-center gap-2 rounded-md bg-gray-50 text-sm font-medium hover:bg-sky-100 hover:text-blue-600"
+        href="/tickets"
+      >
+        <p
+          class="block"
+        >
+          Tickets
+        </p>
+      </a>
+      <a
+        class="flex h-[48px] flex-none justify-center p-2 px-3 items-center gap-2 rounded-md bg-gray-50 text-sm font-medium hover:bg-sky-100 hover:text-blue-600"
+        href="/backlog"
+      >
+        <p
+          class="block"
+        >
+          Backlog
+        </p>
+      </a>
+      <div
+        class="block h-auto w-full grow rounded-md bg-gray-50"
+      />
+    </div>
+  </div>
+</div>
+`;
